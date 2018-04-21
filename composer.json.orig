@@ -1,0 +1,22 @@
+{
+  "name": "msp/module-relinker-all",
+  "type": "metapackage",
+  "description": "MageSpecialist Relinker Full Package",
+  "authors": [
+    {
+      "name": "Riccardo Tempesta",
+      "email": "riccardo.tempesta@magespecialist.it"
+    }
+  ],
+  "license": "OSL-3.0",
+  "require": {
+<<<<<<< HEAD
+    "msp/module-relinker": "0.1.6",
+    "msp/module-relinker-core-processors": "0.1.6",
+=======
+    "msp/module-relinker": "0.1.7",
+    "msp/module-relinker-core-adapters": "0.1.1",
+>>>>>>> fd050d464df0472869211f4386568c3c03ca4bfa
+    "msp/module-relinker-qr": "0.1.1"
+  }
+}
