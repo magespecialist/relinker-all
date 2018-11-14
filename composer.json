@@ -12,6 +12,6 @@
   "require": {
     "msp/module-relinker": "0.1.9",
     "msp/module-relinker-core-processors": "0.1.7",
-    "msp/module-relinker-qr": "0.1.2"
+    "msp/module-relinker-qr": "0.1.3"
   }
 }
