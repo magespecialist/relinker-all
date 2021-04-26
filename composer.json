@@ -10,8 +10,8 @@
   ],
   "license": "OSL-3.0",
   "require": {
-    "msp/module-relinker": "0.1.9",
-    "msp/module-relinker-core-processors": "0.1.7",
-    "msp/module-relinker-qr": "0.1.3"
+    "msp/module-relinker": "dev-2.4",
+    "msp/module-relinker-core-processors": "dev-2.4",
+    "msp/module-relinker-qr": "dev-2.4"
   }
 }
